@@ -16,5 +16,9 @@
   <author href="https://build.phonegap.com" email="support@phonegap.com">
       Koray Gruber
   </author>
+    
+    <platform name="ios" />
+    <platform name="android" />
+    <platform name="winphone" />
 
 </widget>
